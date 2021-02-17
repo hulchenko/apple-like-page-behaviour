@@ -1,1 +1,1 @@
-Project dedicated to the fancy page scroll on apple devices(always loved it).
+Project dedicated to the pop up pictures on the screen, as user scrolls.
